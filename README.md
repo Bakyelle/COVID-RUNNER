@@ -3,6 +3,6 @@
  
 ## Screenshots
 
-![Screenshot 1](screenshot/screenshot1.png)
-![Screenshot 2](screenshot/screenshot2.png)
-![Screenshot 3](screenshot/screenshot3.png)
+![Screenshot 1](ScreenShots/screenshot1.png)
+![Screenshot 2](ScreenShots/screenshot2.png)
+![Screenshot 3](ScreenShots/screenshot3.png)
